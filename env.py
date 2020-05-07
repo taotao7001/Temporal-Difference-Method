@@ -1,14 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  6 09:44:47 2020
-
-@author: taotao
-"""
-
+# Packages
 import numpy as np
 
-
+# Initialisation
 numS = 112 # 8*7*2 = 112, 
 # State Matrix: possesseion_p1,p1,p2
 s1 = [s for s in range(8)]
